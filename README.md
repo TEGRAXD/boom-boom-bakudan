@@ -1,7 +1,9 @@
-## Tugas Institut Teknologi Sepuluh Nopember (Departemen Teknik Komputer)
+## Boom Boom Bakudan!!!
+![](static/klee-fallen.png)
+Artwork: [SONA](https://www.hoyolab.com/article/1128318)
 
-### Deskripsi
-Membuat game seperti labirin dan minesweeper.
+### Deskripsi Project
+Tugas Institut Teknologi Sepuluh Nopember (Departemen Teknik Komputer). Membuat game seperti labirin dan minesweeper.
 
 ### Deskripsi Tugas
 Dalam proyek ini, Anda akan mengembangkan sebuah minigame berjudul Boom Boom Bakudan!!.
@@ -15,10 +17,7 @@ dari START menuju END tanpa menyentuh bom.
 3. Start disimbalkan dengan huruf S, End disimbolkan dengan huruf E, dan Player disimbolkan dengan
 huruf P.
 4. Posisi Start dan End ditentukan secara acak.
-5. Terdapat 3 macam terrain, yaitu:
-• . : Tanah biasa.
-• # : Tembok.
-• * : Bom.
+5. Terdapat 3 macam terrain, yaitu: . : Tanah biasa. # : Tembok. * : Bom.
 6. Bom tersebar secara acak dengan probabilitas 20
 7. Player dapat bergerak ke atas, bawah, kiri, dan kanan dengan menekan tombol W, A, S, dan D.
 8. Player tidak dapat melewati tembok maupun keluar dari peta.
@@ -27,3 +26,14 @@ huruf P.
 11. Ketika player menyentuh bom, maka permainan akan berakhir.
 12. Player dianggap menang jika telah mencapai END.
 13. Terrain akan terbuka semua ketika player kalah ataupun menang.
+
+### Developer
+```
+Tegar B. Suganda
+```
+
+[@canaryv8][1] (Twitter)\
+[@suganda8][2] (Github)
+
+[1]: https://twitter.com/canaryv8
+[2]: https://github.com/suganda8
