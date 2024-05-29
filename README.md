@@ -1,5 +1,5 @@
 ## Boom Boom Bakudan!!!
-![](static/klee-fallen.png)
+![](static/klee-fallen.png)\
 Artwork: [SONA](https://www.hoyolab.com/article/1128318)
 
 ### Deskripsi Project
