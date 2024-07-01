@@ -27,13 +27,7 @@ huruf P.
 12. Player dianggap menang jika telah mencapai END.
 13. Terrain akan terbuka semua ketika player kalah ataupun menang.
 
-### Developer
+### Contributor
 ```
-Tegar B. Suganda
+TEGRAXD - Tegar B. Suganda
 ```
-
-[@canaryv8][1] (Twitter)\
-[@suganda8][2] (Github)
-
-[1]: https://twitter.com/canaryv8
-[2]: https://github.com/suganda8
